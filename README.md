@@ -2,7 +2,8 @@ bash optSim.sh - Runs simplesclar benchmarks for CMPEN 431 at PSU.
 
 Example:
 
-sh optSim.sh 
+bash optSim.sh 
+
 Enter configs:
 <configs>
 
